@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5,
       color: #000; }
 
       
-.hassubmenu .dropdown-menu,
+.dropdown-menu,
 .dropdown. .dropdown-menu {
     left: auto;
     right: auto;
@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5,
  .dropdown .dropdown-menu {
     border-radius: 0;
     border-top: 3px solid #ddd;
-    background-color: #fff !important;
+    background-color: azure;
     margin-top: 24px;
     padding: 20px 30px;
 }
